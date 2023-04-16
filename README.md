@@ -22,12 +22,7 @@ To run this project locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/soumyo2002/Personal-Portfolio.git`
 2. Navigate to the project directory: `cd Personal-Portfolio`
 3. Open the `index.html` file in your browser
-
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-
+4. 
 ## Contributions
 
 Contributions are always welcome! If you find any bugs or want to suggest new features, please create an issue or submit a pull request.
